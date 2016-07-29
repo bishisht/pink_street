@@ -45,3 +45,5 @@ group :development do
   gem 'spring'
 end
 
+gem 'solidus'
+gem 'solidus_auth_devise'
